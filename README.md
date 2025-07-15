@@ -7,7 +7,7 @@ Imagine you're a talented developer at "Future Homes Realty", a forward-thinking
 
 The main code file python Notebook Project-Personalized_Real_Estate_Agent.ipynb - Contains complete code genearate real estate listings using a Large Language Model.
 
-Key Components:
+# Key Components:
 
 OpenAI API Integration: The code showcases the integration of the OpenAI API to generate semantic embeddings for words and phrases, enabling the chatbot to understand the context of textual data.
 
